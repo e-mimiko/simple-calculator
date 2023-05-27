@@ -2,6 +2,9 @@
 
 The calculator is one of the essential applications in any mobile device. This simple calculator supports all basic calculations (addition, multiplication, subtraction and division) and supports negative numbers. 
 
+## Demo
+https://youtu.be/PLphiYZ36Oc
+
 ## Features
 
 A specific list of the required features is listed below:
